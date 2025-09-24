@@ -6,6 +6,12 @@
     "Backend development",
     "Application Development",
   ],
+  "Experience_with": [{
+      "ProgrammingLanguages": ["c#", "python", "javascript", "typescript"],
+      "frameworks": ["nextjs", "nestjs"],
+      "DataBases": ["PostgreSQL", "MariaDB", "MySql", "SQLite", "MongoDB"],
+      "Caching": ["DragonflyDB", "RedisDB"]
+  }],
   "Socials": [
     {
       "social_name": "Linkedin"
