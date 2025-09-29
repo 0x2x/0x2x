@@ -10,7 +10,8 @@
       "ProgrammingLanguages": ["c#", "python", "javascript", "typescript"],
       "frameworks": ["nextjs", "nestjs"],
       "DataBases": ["PostgreSQL", "MariaDB", "MySql", "SQLite", "MongoDB"],
-      "Caching": ["DragonflyDB", "RedisDB"]
+      "Caching": ["DragonflyDB", "RedisDB"],
+      "SecurityApplications": ["Wireshark", "burp", "Nmap", "SqlMap"]
   }],
   "Socials": [
     {
