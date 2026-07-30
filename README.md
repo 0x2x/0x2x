@@ -10,7 +10,7 @@
   ],
   "Experience_with": [{
       "ProgrammingLanguages": ["c#", "python", "javascript", "typescript", "rust"],
-      "web_frameworks": ["nextjs", "nestjs", "axum", "express.js ],
+      "web_frameworks": ["nextjs", "nestjs", "axum", "express.js"],
       "DataBases": ["PostgreSQL", "MariaDB", "MySql", "SQLite", "MongoDB"],
       "Caching": ["DragonflyDB", "RedisDB"],
       "SecurityApplications": ["Wireshark", "burp", "Nmap", "SqlMap"]
